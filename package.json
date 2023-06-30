@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Resller.github.io/sistema-financeiro",
   "name": "sistema-de-finacas-pessoais",
   "private": true,
   "version": "0.0.0",
@@ -7,9 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
